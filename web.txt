@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 10px;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Manonmaniam Sundaranar University
+</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About MSU</a>
+        <a href="#">Contact</a>
+	<a href="#">Exam Fees</a>
+	<a href="#">Course Details</a>
+	<a href="#">Library</a>
+    </nav>
+    <section>
+        <h2>Welcome to Manonmaniam Sundaranar University
+</h2>
+        <p>
+Manonmaniam Sundaranar University (MSU) is a dynamic institution of higher learning, set in a rural milieu of southern Tamil Nadu, with a campus spread of 550 acres. The University was established by the Government of Tamil Nadu as a teaching-cum-affiliating University on 7th September, 1990 to cater to the long-felt needs of the people of the four southern most districts of Tamil Nadu viz., Tirunelveli, Tenkasi, Tuticorin and Kanyakumari.</p>
+    </section>
+</body>
+</html>
